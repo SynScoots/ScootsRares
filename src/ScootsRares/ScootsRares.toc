@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## X-Compatible-With: 40000
-## Title: ScootsRares
-## Notes: Automatically run the .findnpc command when near a rare
+## Title: Scoots Rares
+## Notes: Create a link in chat to automatically run the .findnpc command when near a rare
 ## Author: Scoots
 
 ScootsRares.lua

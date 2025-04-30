@@ -1,6 +1,6 @@
 ## Description ##
 
-This addon will automatically run the .findnpc command when near a rare.
+This addon will create a link in chat to automatically run the .findnpc command when near a rare.
 
 ## Installation ##
 
@@ -8,4 +8,4 @@ Download this repository, then extract the `ScootsRares` subdirectory from the `
 
 ## Screenshots ##
 
-![The .findnpc command automatically running](./img/found-npc.png)
+![The .findnpc command automatically running](./img/found-npc-link.png)
