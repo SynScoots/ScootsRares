@@ -1,5 +1,5 @@
 local ScootsRares = {
-    ['version'] = '2.0.0',
+    ['version'] = '2.1.0',
     ['frame'] = CreateFrame('Frame', 'ScootsRaresFrame', UIParent)
 }
 
